@@ -1,0 +1,24 @@
+{
+  "name": "pet_project_sudoku-1",
+  "version": "1.0.0",
+  "description": "Game sudoku",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KudesnikRaph/pet_project_sudoku-1.git"
+  },
+  "author": "KudesnikRaph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KudesnikRaph/pet_project_sudoku-1/issues"
+  },
+  "homepage": "https://github.com/KudesnikRaph/pet_project_sudoku-1#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "makefile": "^0.0.2"
+  }
+}
