@@ -1,2 +1,2 @@
-#!/usr/bin/env node
+import { generateSudoku } from "./sudokuGenerator.js";
 generateSudoku();
